@@ -1,0 +1,40 @@
+body {
+  background-color: #fffb80; /* amarillo brillante */
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #ff0000;
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.5em;
+  color: #333;
+}
+
+label {
+  font-size: 1.2em;
+  color: #444;
+}
+
+input, textarea {
+  width: 60%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 1.2em;
+  background-color: #0400ff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+}
